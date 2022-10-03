@@ -1,1 +1,1 @@
-Wei Cai weicaivi
+Wei Cai weicaivi UChicago CS Git Tutorial
